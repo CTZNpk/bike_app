@@ -1,6 +1,6 @@
 # Bike Tracker
 
-BikeMate is more than just a mileage tracker or maintenance log; it's your personal companion for managing and optimizing your motorcycle's performance. This mobile app simplifies the process of recording petrol refills and maintenance activities, offering insights into your bike's efficiency and health. 
+Bike Tracker is more than just a mileage tracker or maintenance log; it's your personal companion for managing and optimizing your motorcycle's performance. This mobile app simplifies the process of recording petrol refills and maintenance activities, offering insights into your bike's efficiency and health. 
 
 ## Features
 
@@ -16,7 +16,7 @@ Effortlessly monitor your bike's mileage and performance. Get comprehensive stat
 ### Performance Analytics
 Visualize your bike's performance through intuitive graphs and insights. Identify patterns, understand your riding habits, and make informed decisions to enhance your bike's overall performance.
 
-## Why BikeMate?
+## Why Bike Tracker?
 
 - **Efficiency Boost:** Optimize your bike's performance and fuel efficiency by having detailed insights into its usage and maintenance history.
 - **Easy and Intuitive:** A user-friendly interface ensures hassle-free data entry and quick access to vital information.
