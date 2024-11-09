@@ -106,7 +106,12 @@ class HomeService with ChangeNotifier {
     int year = fuelHistoryList[0].fillDate.year;
     overallAverage = 0;
     double price = 0, litres = 0;
-    int startReading = 0;
+    int startReading = fuelHistoryList[0].meterReading;
+    if (fuelHistoryList.length == 1) {
+      spentThisMonth = fuelHistoryList[0].price;
+      estimatedNextFill = fuelHistoryList[0].meterReading;
+      return;
+    }
 
     for (var item in fuelHistoryList) {
       if (item.fillDate.month != month) {
